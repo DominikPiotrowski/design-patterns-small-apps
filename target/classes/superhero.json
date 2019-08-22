@@ -1,0 +1,25 @@
+{
+  "superhero": [
+    {
+      "heroName": "Batman",
+      "realName": "Bruce Wayne",
+      "mainSuperpower": "Batmobile",
+      "mainWeakPoint": "Psychological issues",
+      "hasToys": true
+    },
+    {
+      "heroName": "Superman",
+      "realName": "Clark Kent",
+      "mainSuperpower": "Invincible",
+      "mainWeakPoint": "Cryptonite",
+      "hasToys": false
+    },
+    {
+      "heroName": "Hulk",
+      "realName": "Bruce Banner",
+      "mainSuperpower": "Strength",
+      "mainWeakPoint": "Puppies",
+      "hasToys": false
+    }
+  ]
+}
